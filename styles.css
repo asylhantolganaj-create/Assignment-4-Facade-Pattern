@@ -1,0 +1,30 @@
+body {
+  background-color: #f0f2f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+  border-radius: 6px;
+}
+
+h4 {
+  color: #2b2b2b;
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: 500;
+}
+
+
+input:focus,
+textarea:focus,
+select:focus,
+.form-control:focus {
+  outline: none !important;
+  outline-width: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  border-color: #ced4da !important; 
+}
