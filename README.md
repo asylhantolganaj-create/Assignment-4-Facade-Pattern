@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Project Overview & Summary
-Hi! This repository contains my work for **Assignment #4: Forms and Validation**[cite: 4]. The main goal of this assignment was to learn how to create user-friendly web forms using HTML5 and style them using Bootstrap 5 components, as well as applying both native HTML5 validation and custom Bootstrap validation feedback[cite: 4]. 
+ The main goal of this assignment was to learn how to create user-friendly web forms using HTML5 and style them using Bootstrap 5 components, as well as applying both native HTML5 validation and custom Bootstrap validation feedback[cite: 4]. 
 
 During the development process, I implemented 5 distinct tasks ranging from simple contact forms to an advanced registration form with custom CSS adjustments (such as overriding default input focus styles).
 
